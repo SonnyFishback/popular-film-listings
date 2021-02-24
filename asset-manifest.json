@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/popular-film-listings/static/css/main.a1ad1b68.chunk.css",
+    "main.js": "/popular-film-listings/static/js/main.42431809.chunk.js",
+    "main.js.map": "/popular-film-listings/static/js/main.42431809.chunk.js.map",
+    "runtime~main.js": "/popular-film-listings/static/js/runtime~main.50e1f60d.js",
+    "runtime~main.js.map": "/popular-film-listings/static/js/runtime~main.50e1f60d.js.map",
+    "static/js/2.4b44c26e.chunk.js": "/popular-film-listings/static/js/2.4b44c26e.chunk.js",
+    "static/js/2.4b44c26e.chunk.js.map": "/popular-film-listings/static/js/2.4b44c26e.chunk.js.map",
+    "index.html": "/popular-film-listings/index.html",
+    "precache-manifest.9743899f03e8a576bc8643fe384061e9.js": "/popular-film-listings/precache-manifest.9743899f03e8a576bc8643fe384061e9.js",
+    "service-worker.js": "/popular-film-listings/service-worker.js",
+    "static/css/main.a1ad1b68.chunk.css.map": "/popular-film-listings/static/css/main.a1ad1b68.chunk.css.map"
+  }
+}
